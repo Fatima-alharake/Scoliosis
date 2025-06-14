@@ -1,1 +1,1 @@
-dataroot filter=lfs diff=lfs merge=lfs -text
+dataroot/** filter=lfs diff=lfs merge=lfs -text
